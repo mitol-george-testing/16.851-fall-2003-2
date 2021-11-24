@@ -1,0 +1,41 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Astrodynamics"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ddcbd8ce-d4bd-155c-e4b3-2f432685124a",
+      "c1db57bb-2df2-4487-c76f-cf82c883b440"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Satellite Engineering",
+  "course_description": "Satellite Engineering introduces students to subsystem design in engineering spacecraft. The course presents characteristic subsystems, such as power, structure, communication and control, and analyzes the engineering trades necessary to integrate subsystems successfully into a satellite.\u00a0Discussions of spacecraft operating environment and orbital mechanics help students to understand the functional requirements and key design parameters for satellite systems.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.851",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Design Assignments with Examples",
+    "Programming Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
